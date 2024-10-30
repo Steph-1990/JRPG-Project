@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaidZombie
+  m_Controller: {fileID: 9100000, guid: cde1d285684d8dc43acdf483f2e66501, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9656a7d8e5b8f3a4384d63da442198ce, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ee18434eb767c604680b37b4fdfc0a4c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: abc3e72af7f03a842af782b0ae7ff5fc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93c45fef4f4e7a442a54cc011368d212, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 20ae9fdc8330a9b4bbe52235ff607642, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 55f3d2715ea317a4ab8687926c78e2b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 383dc0682f7c0de43af088b0ff4cac5f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: daaafbb4d7c2a784791ef4d4ad40a96c, type: 2}
